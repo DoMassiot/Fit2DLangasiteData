@@ -77,7 +77,7 @@ class Zone: # the class implementing the generation of zone datasets
         xy = exchange(xy, 6, 7)
         xy.append (xy[0])
         X,Y = zip(*xy)
-        plt.plot(X,Y, "red" if self.zone_id==0 else "green")
+        plt.plot(X,Y, "brown") #"red" if self.zone_id==0 else "green")
 
     def select_zone(self, t, x, y): # selects the current
         def droite(x, y, pts):

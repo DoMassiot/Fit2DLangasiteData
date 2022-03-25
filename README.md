@@ -4,7 +4,7 @@
 2022 03 25  
 by Dominique Massiot - CEMHTI-CNRS UPR3079, Orléans France - https://www.cemhti.cnrs-orleans.fr/?nom=massiot   
 
-2 scripts for simulation of 2D element maps from TEM microscopy
+2 scripts for simulation of 2D element maps from TEM microscopy - developped on MacOS(12.2.1 Apple M1 Pro) under python 3.9 - should run on any plateform
   + 'make zone dataset.py' to generate the zone datasets
   + 'Fit2D data.py' to fit the data with 2D gaussian lineshapes
 
