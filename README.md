@@ -10,7 +10,7 @@ by Dominique Massiot - CEMHTI-CNRS UPR3079, Orléans France - https://www.cemhti
 
 ## reference work
 
-These scritp have been used to model the data described in the following publication :  
+These scripts have been used to model the data described in the following publication :  
 "Stabilisation of the trigonal langasite structure in Ca3Ga2-2xZnxGe4+xO14 (0 ≤ x ≤ 1) with partial ordering of three isoelectronic cations characterised by a multi-technique approach"  
 by Haytem Bazzaoui, Cécile Genevois, Dominique Massiot, Vincent Sarou-Kanian, Emmanuel Veron, Sébastien Chenu, Přemysl Beran, Michael J. Pitcher and Mathieu Allix  
 submitted to ??  
