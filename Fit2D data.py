@@ -1,9 +1,12 @@
 # 'Git2D dataset.py' - 2022 03 25
 # fit of 2D microscopy data with gaussian lineshapes
 # by Dominique Massiot - CEMHTI-CNRS UPR3079, Orléans France
+#
 # used in the manuscript "Stabilisation of the trigonal langasite structure in Ca3Ga2-2xZnxGe4+xO14 (0 ≤ x ≤ 1) with partial ordering of three isoelectronic cations characterised by a multi-technique approach"
 # by Haytem Bazzaoui, Cécile Genevois, Dominique Massiot, Vincent Sarou-Kanian, Emmanuel Veron, Sébastien Chenu, Přemysl Beran, Michael J. Pitcher and Mathieu Allix
 # submitted to ??
+# preprint available at ??
+# scripts available in GitHub : https://github.com/DoMassiot/Fit2DLangasiteData/
 #
 # the fitting routine was derived from
 # https://scipython.com/blog/non-linear-least-squares-fitting-of-a-two-dimensional-data/

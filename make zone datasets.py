@@ -1,8 +1,11 @@
 # 'make zone dataset.py' - 2022 03 25
 # by Dominique Massiot - CEMHTI-CNRS UPR3079, Orléans France
+#
 # used in the manuscript "Stabilisation of the trigonal langasite structure in Ca3Ga2-2xZnxGe4+xO14 (0 ≤ x ≤ 1) with partial ordering of three isoelectronic cations characterised by a multi-technique approach"
 # by Haytem Bazzaoui, Cécile Genevois, Dominique Massiot, Vincent Sarou-Kanian, Emmanuel Veron, Sébastien Chenu, Přemysl Beran, Michael J. Pitcher and Mathieu Allix
 # submitted to ??
+# preprint available at ??
+# scripts available in GitHub : https://github.com/DoMassiot/Fit2DLangasiteData/
 #
 # takes the raw data and builds the zone_data datasets used by the fitting routine
 # this script has to be executed piror to [Fit2D data.py]
